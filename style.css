@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #557A95;
+
+}
+
+.scoreboard {
+  background-color: #d3d3d3;
+}
+
+.options {
+  font-size: 50px;
+  height: 75px;
+  width: 75px;
+}
+
+.Reset {
+  font-size: 50px;
+  height: 150px;
+  width: 175px;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
